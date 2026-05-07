@@ -1,0 +1,25 @@
+########################################
+#                                      #
+#          Custom Bot                  #
+#                                      #
+########################################
+
+Settings:
+  Bot:
+    Token: "token" # Bot Token
+    ClientId: "id del bot" # Bot ID
+
+  #-------------------------------------------------------------------------#
+  #                      Database MongoDB                                   #
+  #             If you need any help you can contact me by:                 #
+  #                 Website: https://es.fiverr.com/kill6r                   #
+  #                 Discord: kill6r (734189157097930862)                    #
+  #                 Email: jesusmontalvog1@gmail.com                        #
+  #-------------------------------------------------------------------------#
+
+  MongoDB:
+    Link: "mongodb+srv://test"
+    # Go to "Create Database MongoDB" folder then open mp4 file in it
+    # or you can go to the youtube video: https://youtu.be/94g7fITrhrM to create the database
+
+Version: "1.0.0"

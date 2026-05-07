@@ -1,0 +1,9 @@
+const { Schema, model } = require("mongoose");
+
+const ModelSchema = new Schema({
+    guildId: String,
+    prefix: String,
+    color: String
+});
+
+module.exports = model("schema", ModelSchema);
